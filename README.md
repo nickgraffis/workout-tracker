@@ -1,2 +1,1 @@
-# workout-tracker
-MongoDB workout tracker
+# MongoDB Workout Tracker
